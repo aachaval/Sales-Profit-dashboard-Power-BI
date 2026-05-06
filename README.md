@@ -121,7 +121,7 @@ The solution is designed to be easily updated:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](./dashboard.gif)
+![Dashboard](./profit.jpg)
 
 ---
 
