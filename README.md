@@ -122,7 +122,7 @@ The solution is designed to be easily updated:
 ## 📸 Dashboard Preview
 
 ![Dashboard](./profit.jpg)
-
+![Dashboard](./quantity.jpg)
 ---
 
 ## 📌 Use Case
