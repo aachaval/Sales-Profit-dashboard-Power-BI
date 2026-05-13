@@ -2,7 +2,7 @@
 
 ## 🧾 Executive Summary
 
-This project consists of the development of an interactive Power BI dashboard to analyze sales performance for a cycling products distribution company between 2011 and 2016.
+This project consists of the development of an interactive Power BI dashboard to analyze sales performance for a cycling products distribution company between 2020 and 2025.
 
 The solution provides insights into revenue, profit, customer behavior, and product performance, enabling data-driven decision-making through an intuitive and dynamic reporting interface.
 
@@ -23,7 +23,7 @@ This project aims to transform raw sales data into a structured and interactive 
 
 ## 📂 Dataset
 
-The dataset contains sales data from a cycling products company, covering the period 2011–2016.
+The dataset contains sales data from a cycling products company, covering the period 2020–2025.
 
 - Source: https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe  
 - Format: CSV files transformed into Excel tables  
